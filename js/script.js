@@ -3,7 +3,7 @@
 	$(function() {
 		const puzzleData = [
 			 	{
-					clue: "What are c processors",
+					clue: "This is first program",
 					answer: "alpha",
 					position: 1,
 					orientation: "across",
