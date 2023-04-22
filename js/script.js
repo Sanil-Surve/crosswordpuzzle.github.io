@@ -26,14 +26,14 @@
 				// 	startx: 1,
 				// 	starty: 3
 				// },
-				// {
-				// 	clue: "The speeds of engines without and accelaration",
-				// 	answer: "idlespeeds",
-				// 	position: 8,
-				// 	orientation: "across",
-				// 	startx: 1,
-				// 	starty: 5
-				// },
+				{
+					clue: "It is used in the implementation of iterators and generators",
+					answer: "yieldbreak",
+					position: 8,
+					orientation: "across",
+					startx: 1,
+					starty: 5
+				},
 				{
 					clue: "technique in which a function calls itself from within its own code",
 					answer: "recursion",
