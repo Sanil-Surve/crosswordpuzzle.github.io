@@ -11,21 +11,21 @@
 					starty: 1
 				},
 			 	{
-					clue: "Not a one ___ motor, but a three ___ motor",
-					answer: "phase",
+					clue: "It is used to read formatted input from the console.",
+					answer: "scanf",
 					position: 3,
 					orientation: "across",
 					startx: 7,
 					starty: 1
 				},
-				{
-					clue: "Created from a separation of charge",
-					answer: "capacitance",
-					position: 5,
-					orientation: "across",
-					startx: 1,
-					starty: 3
-				},
+				// {
+				// 	clue: "Created from a separation of charge",
+				// 	answer: "capacitance",
+				// 	position: 5,
+				// 	orientation: "across",
+				// 	startx: 1,
+				// 	starty: 3
+				// },
 				// {
 				// 	clue: "The speeds of engines without and accelaration",
 				// 	answer: "idlespeeds",
@@ -67,7 +67,7 @@
 					starty: 11
 				},
 				{
-					clue: "collection of homogeneous data items",
+					clue: "collection of elements of the same data type that are stored together in a contiguous block of memory",
 					answer: "array",
 					position: 1,
 					orientation: "down",
@@ -99,21 +99,21 @@
 				// 	starty: 3
 				// },
 				{
-					clue: "Electromagnetic (abbr.)",
-					answer: "em",
+					clue: "Computer Programming (Short form)",
+					answer: "cp",
 					position: 7,
 					orientation: "down",
 					startx: 11,
 					starty: 3
 				},
-				{
-					clue: "No. 13 across does this to a voltage",
-					answer: "steps",
-					position: 9,
-					orientation: "down",
-					startx: 5,
-					starty: 5
-				},
+				// {
+				// 	clue: "No. 13 across does this to a voltage",
+				// 	answer: "steps",
+				// 	position: 9,
+				// 	orientation: "down",
+				// 	startx: 5,
+				// 	starty: 5
+				// },
 				{
 					clue: " in C programming is a user-defined data type that allows you to store different data types in the same memory location.",
 					answer: "union",
@@ -123,7 +123,7 @@
 					starty: 7
 				},
 				{
-					clue: "Information technology (abbr.)",
+					clue: "Information technology (short form)",
 					answer: "it",
 					position: 12,
 					orientation: "down",
